@@ -1,3 +1,7 @@
 task1 develop
 
+
 bug corrigido na task1
+
+pequena alteração de ajustes
+
